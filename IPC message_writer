@@ -22,5 +22,5 @@ return 0;
 }
 /* output:
 Write Data:super
-Data received is :super
+Data send is :super
 */
