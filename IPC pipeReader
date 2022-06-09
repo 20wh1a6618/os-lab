@@ -24,6 +24,6 @@ int main(){
 return 0;
 }
 /*Output
-hii
-User1: hello
+good
+User1: wow
 */
